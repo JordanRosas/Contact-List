@@ -1,34 +1,22 @@
 {
   "contact": [
     {
-      "name": "Jordan Rosas",
-      "number": "360-951-8234",
-      "address": "123 sesame st",
+      "name": "Keith Weisel",
+      "number": "206-321-0393",
+      "address": "314 Gleaves Ln, Nolensville, TN, 37135 ",
       "id": 1
     },
     {
-      "name": "",
-      "number": "",
-      "address": "",
+      "name": "Jordan Rosas",
+      "number": "360-951-8234",
+      "address": "314 Gleaves Lane",
       "id": 2
     },
     {
-      "name": "Jordan",
-      "number": "123-123-1232",
-      "address": "asdnamsdnasdf",
-      "id": 3
-    },
-    {
-      "name": "Jordan",
-      "number": "123-123-1232",
-      "address": "asdnamsdnasdf",
-      "id": 4
-    },
-    {
       "name": "",
       "number": "",
       "address": "",
-      "id": 5
+      "id": 3
     }
   ]
 }

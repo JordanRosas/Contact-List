@@ -1,5 +1,5 @@
 const contact = {
-  contactBuilder(contactObject){
+  contactBuilderFromJson(contactObject){
     let contactContainer = document.createElement("article");
     let contactName = document.createElement("h1");
     contactName.textContent = contactObject.name;
