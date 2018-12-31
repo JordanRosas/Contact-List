@@ -8,7 +8,7 @@ const contact = {
     let contactAddress = document.createElement("p");
     contactAddress.textContent = contactObject.address;
 
-    ccontactContainer.appendChild(contactName);
+    contactContainer.appendChild(contactName);
     contactContainer.appendChild(contactNumber);
     contactContainer.appendChild(contactAddress);
 
