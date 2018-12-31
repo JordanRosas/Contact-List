@@ -1,0 +1,34 @@
+{
+  "contact": [
+    {
+      "name": "Jordan Rosas",
+      "number": "360-951-8234",
+      "address": "123 sesame st",
+      "id": 1
+    },
+    {
+      "name": "",
+      "number": "",
+      "address": "",
+      "id": 2
+    },
+    {
+      "name": "Jordan",
+      "number": "123-123-1232",
+      "address": "asdnamsdnasdf",
+      "id": 3
+    },
+    {
+      "name": "Jordan",
+      "number": "123-123-1232",
+      "address": "asdnamsdnasdf",
+      "id": 4
+    },
+    {
+      "name": "",
+      "number": "",
+      "address": "",
+      "id": 5
+    }
+  ]
+}
